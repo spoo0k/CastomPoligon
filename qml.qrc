@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Red-Circle.png</file>
+        <file>CastomPolygon.qml</file>
+    </qresource>
+</RCC>
